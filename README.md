@@ -13,4 +13,12 @@ It demonstrates the foundational skills of HTML, including linking pages, adding
 
 
 ## What i learned?
-**I will fill this section out once the project is done.**
+- problem solving: thinking what to do and how to do it was a little hard. but i learned to focus on a problem for a long term of time.
+- Git: I used git constantly and it helped me to understand how it works.
+- GitHub: By using Git, I actually understood the Git and GitHub and how to use them and what they do.
+
+## Note
+Actually, it was my first real project. and i think i did great for the first time. i will try to be better everyday.
+
+## Goal
+When i learned CSS, i want to come back and design this website i just created.
